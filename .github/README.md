@@ -16,7 +16,7 @@
 
 ### Neovim
 
-my neovim configuration can be found in (git@github.com:yuukiwwa/nvchad-config)[https://github.com/yuukilla/nvchad-config/] repository
+my neovim configuration can be found in [git@github.com:yuukiwwa/.files](https://github.com/yuukilla/nvchad-config) repository
 
 
 ### Screenshots
