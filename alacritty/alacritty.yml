@@ -1,0 +1,41 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+
+window:
+  padding:
+     x: 15
+     y: 15
+  decorations: None 
+
+  opacity: 1
+
+  # dynamic_title: true
+
+scrolling:
+  multiplier: 3
+
+cursor:
+  style:
+    shape: beam
+
+    blinking: on
+
+  vi_mode_style: beam
+
+env:
+  TERM: xterm-256color
+
+font:
+  normal:
+    family: "CaskaydiaCove Nerd Font"
+    # family: "Terminess Nerd Font"
+    style: Light
+  bold:    
+    family: "CaskaydiaCove Nerd Font"
+    style: Medium
+  italic:
+    family: "CaskaydiaCove Nerd Font"
+    style: "Light Italic"
+
+
+  size: 10.0

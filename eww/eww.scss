@@ -1,0 +1,89 @@
+@import './src/themes/_mocha.scss';
+
+.bar {
+  border-radius: 15px;
+}
+.eww_bar {
+  background: $base;
+  padding: .5rem;
+  border-radius: 50%;
+}
+
+.works {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 1.8rem;
+}
+
+.un,.un1,.un2,.un3,.un4,.un5,.un6,
+.un11,.un22,.un33,.un44,.un55,.un66 {
+  margin: .2rem 0;
+  padding: 0 .5rem;
+}
+
+/* Unoccupied */
+.un {
+  color: $surface2 
+}
+
+/* Occupied */
+.un1,
+.un2,
+.un3,
+.un4,
+.un5,
+.un6 {
+  color: $overlay2
+}
+
+/* Focused */
+/* NEED FIX - BROKEN ON FOCUSED-EMPTY */
+.un11,
+.un22,
+.un33,
+.un44,
+.un55,
+.un66 {
+  color: $mauve;
+}
+
+
+
+.control {
+  margin: .2rem 0;
+  padding: 0 .5rem;
+
+  // font-size: 1.5rem;
+}
+
+.volume-icon {
+  font-family: "CaskaydiaCove Nerd Font Mono";
+  font-size: 1rem;
+}
+scale trough {
+  all: unset;
+  background-color: $surface2;
+  border-radius: 5px;
+  min-height: 80px;
+  min-width: 10px;
+  margin: .3rem 0 .3rem 0;
+}
+.volbar trough highlight {
+  background-color: $green;
+  border-radius: 5px;
+}
+
+// .time {
+  // background: transparent;
+  // padding: .5rem 0;
+  // margin: .2rem .5rem;
+  // width: auto;
+  // display: flex;
+  // margin: .2rem 0;
+// }
+.time button{
+  background: transparent;
+}
+// .time button:first-child() {
+  // margin-bottom: -5px;
+// }
+
