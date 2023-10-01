@@ -1,4 +1,4 @@
-<h1 align="center">git@github.com:yuukiwwa/.files</h1>
+<h1 align="center">git@github.com:ywwa/.files</h1>
 <p align="center">this repository contains my .files</p>
 
 ![preview](./img/multiple.png)
@@ -16,7 +16,7 @@
 
 ### Neovim
 
-my neovim configuration can be found in [git@github.com:yuukiwwa/.files](https://github.com/yuukilla/nvchad-config) repository
+my neovim configuration can be found in [git@github.com:ywwa/chadConfig](https://github.com/ywwa/chadConfig) repository
 
 
 ### Screenshots
