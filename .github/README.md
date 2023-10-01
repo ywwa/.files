@@ -1,5 +1,5 @@
 <h1 align="center">git@github.com:ywwa/.files</h1>
-<p align="center">this repository contains my .files</p>
+<p align="center">this repository contains my .files from <b>laptop</b></p>
 
 ![preview](./img/multiple.png)
 
